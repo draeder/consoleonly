@@ -1,0 +1,20 @@
+{
+  "name": "consoleonly",
+  "version": "1.0.0",
+  "description": "Write to the console only after an expected write to the console has already occurred",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/draeder/consoleonly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/draeder/consoleonly/issues"
+  },
+  "homepage": "https://github.com/draeder/consoleonly#readme"
+}

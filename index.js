@@ -3,4 +3,4 @@ export default function ConsoleOnly(){
   console.only = function(i, s) { if(i && i == c){ log.apply(console, arguments); c++ } }
   console.only.on = () => { console.log = () => {} }
   console.only.off = () => { console.log = log }
-} 
+}

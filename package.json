@@ -1,6 +1,6 @@
 {
   "name": "consoleonly",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Write to the console only after an expected write to the console has already occurred",
   "main": "index.js",
   "type": "module",
@@ -11,10 +11,16 @@
     "type": "git",
     "url": "git+https://github.com/draeder/consoleonly.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel L Raeder",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/draeder/consoleonly/issues"
   },
-  "homepage": "https://github.com/draeder/consoleonly#readme"
+  "homepage": "https://github.com/draeder/consoleonly#readme",
+  "keywords": [
+    "console.log",
+    "console.only",
+    "debugging",
+    "tracing"
+  ]
 }

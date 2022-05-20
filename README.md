@@ -50,5 +50,5 @@ console.log('This will log as normal')
 
 console.log('So will this')
 
-console.only('This will not log, because console.only has been disabled')
+console.only(4, 'This will not log, because console.only has been disabled')
 ```

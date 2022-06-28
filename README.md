@@ -53,4 +53,4 @@ console.log('So will this')
 console.only(4, 'This will not log, because console.only has been disabled')
 ```
 ## Credit
-Thanks to [@amark](https://github.com/amark/) whose version of this is only one line of code.
+Thanks to [@amark](https://github.com/amark/) whose original version of this is only one line of code.
